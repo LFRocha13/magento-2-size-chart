@@ -22,11 +22,11 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 ## Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
 
 ## Benefits
-* [Reduce Returns and Make Shopping in Your Store Simple](
-* [Use Done-for-you Templates — No Setup Stress](
-* [Fully Customisable to Match Your Brand](
-* [Create Smart Display Rules](
-* [Show It Where It Matters Most](
+* [Reduce Returns and Make Shopping in Your Store Simple](https://github.com/magefan/magento-2-size-chart/tree/main#reduce-returns-and-make-shopping-in-your-store-simple)
+* [Use Done-for-you Templates — No Setup Stress](https://github.com/magefan/magento-2-size-chart/tree/main#use-done-for-you-templates--no-setup-stress)
+* [Fully Customisable to Match Your Brand](https://github.com/magefan/magento-2-size-chart/tree/main#fully-customisable-to-match-your-brand)
+* [Create Smart Display Rules](https://github.com/magefan/magento-2-size-chart/tree/main#create-smart-display-rules)
+* [Show It Where It Matters Most](https://github.com/magefan/magento-2-size-chart/tree/main#show-it-where-it-matters-most)
 
 ## Features
 ### Reduce Returns and Make Shopping in Your Store Simple
